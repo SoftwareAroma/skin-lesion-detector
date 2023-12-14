@@ -1,0 +1,584 @@
+[
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pathlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "const",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "const",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "const",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "const",
+        "importPath": "util",
+        "description": "util",
+        "isExtraImport": true,
+        "detail": "util",
+        "documentation": {}
+    },
+    {
+        "label": "chainer",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chainer",
+        "description": "chainer",
+        "detail": "chainer",
+        "documentation": {}
+    },
+    {
+        "label": "training",
+        "importPath": "chainer",
+        "description": "chainer",
+        "isExtraImport": true,
+        "detail": "chainer",
+        "documentation": {}
+    },
+    {
+        "label": "multibox_loss",
+        "importPath": "chainercv.links.model.ssd",
+        "description": "chainercv.links.model.ssd",
+        "isExtraImport": true,
+        "detail": "chainercv.links.model.ssd",
+        "documentation": {}
+    },
+    {
+        "label": "random_crop_with_bbox_constraints",
+        "importPath": "chainercv.links.model.ssd",
+        "description": "chainercv.links.model.ssd",
+        "isExtraImport": true,
+        "detail": "chainercv.links.model.ssd",
+        "documentation": {}
+    },
+    {
+        "label": "random_distort",
+        "importPath": "chainercv.links.model.ssd",
+        "description": "chainercv.links.model.ssd",
+        "isExtraImport": true,
+        "detail": "chainercv.links.model.ssd",
+        "documentation": {}
+    },
+    {
+        "label": "resize_with_random_interpolation",
+        "importPath": "chainercv.links.model.ssd",
+        "description": "chainercv.links.model.ssd",
+        "isExtraImport": true,
+        "detail": "chainercv.links.model.ssd",
+        "documentation": {}
+    },
+    {
+        "label": "GradientScaling",
+        "importPath": "chainercv.links.model.ssd",
+        "description": "chainercv.links.model.ssd",
+        "isExtraImport": true,
+        "detail": "chainercv.links.model.ssd",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "logzero",
+        "description": "logzero",
+        "isExtraImport": true,
+        "detail": "logzero",
+        "documentation": {}
+    },
+    {
+        "label": "xml.etree.ElementTree",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xml.etree.ElementTree",
+        "description": "xml.etree.ElementTree",
+        "detail": "xml.etree.ElementTree",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "read_image",
+        "importPath": "chainercv.utils",
+        "description": "chainercv.utils",
+        "isExtraImport": true,
+        "detail": "chainercv.utils",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "chainercv",
+        "description": "chainercv",
+        "isExtraImport": true,
+        "detail": "chainercv",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "TransformDataset",
+        "importPath": "chainer.datasets",
+        "description": "chainer.datasets",
+        "isExtraImport": true,
+        "detail": "chainer.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "WeightDecay",
+        "importPath": "chainer.optimizer_hooks",
+        "description": "chainer.optimizer_hooks",
+        "isExtraImport": true,
+        "detail": "chainer.optimizer_hooks",
+        "documentation": {}
+    },
+    {
+        "label": "extensions",
+        "importPath": "chainer.training",
+        "description": "chainer.training",
+        "isExtraImport": true,
+        "detail": "chainer.training",
+        "documentation": {}
+    },
+    {
+        "label": "triggers",
+        "importPath": "chainer.training",
+        "description": "chainer.training",
+        "isExtraImport": true,
+        "detail": "chainer.training",
+        "documentation": {}
+    },
+    {
+        "label": "DetectionVOCEvaluator",
+        "importPath": "chainercv.extensions",
+        "description": "chainercv.extensions",
+        "isExtraImport": true,
+        "detail": "chainercv.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "ARCHS",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "importPath": "util.args",
+        "description": "util.args",
+        "isExtraImport": true,
+        "detail": "util.args",
+        "documentation": {}
+    },
+    {
+        "label": "load_train_test",
+        "importPath": "util.cross_validation",
+        "description": "util.cross_validation",
+        "isExtraImport": true,
+        "detail": "util.cross_validation",
+        "documentation": {}
+    },
+    {
+        "label": "MultiboxTrainChain",
+        "importPath": "util.multi_box_train",
+        "description": "util.multi_box_train",
+        "isExtraImport": true,
+        "detail": "util.multi_box_train",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "util.resource",
+        "description": "util.resource",
+        "isExtraImport": true,
+        "detail": "util.resource",
+        "documentation": {}
+    },
+    {
+        "label": "ISIC2018Task1Dataset",
+        "importPath": "util.skin_lesion_dataset",
+        "description": "util.skin_lesion_dataset",
+        "isExtraImport": true,
+        "detail": "util.skin_lesion_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "Transform",
+        "importPath": "util.transforms",
+        "description": "util.transforms",
+        "isExtraImport": true,
+        "detail": "util.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "Pool",
+        "importPath": "multiprocessing.pool",
+        "description": "multiprocessing.pool",
+        "isExtraImport": true,
+        "detail": "multiprocessing.pool",
+        "documentation": {}
+    },
+    {
+        "label": "minidom",
+        "importPath": "xml.dom",
+        "description": "xml.dom",
+        "isExtraImport": true,
+        "detail": "xml.dom",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "src.util.args",
+        "description": "src.util.args",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser(\n        description='Training for Skin Lesion Detector using ISIC2018 Task1 dataset')\n    parser.add_argument('--model', choices=('ssd300', 'ssd512'), default='ssd300',\n                        help='Model architecture (default: ssd300)')\n    parser.add_argument('--batchsize', type=int, default=32,\n                        help='Number of images in each mini-batch')\n    parser.add_argument('--epoch', type=int, default=30,\n                        help='Number of sweeps over the dataset to train')\n    parser.add_argument('--gpu', type=int, default=-1,",
+        "detail": "src.util.args",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_DIR",
+        "kind": 5,
+        "importPath": "src.util.const",
+        "description": "src.util.const",
+        "peekOfCode": "ROOT_DIR = pathlib.Path(__file__).parents[2]\n# /data\nDATA_DIR = ROOT_DIR / 'data'\n# /data/ISIC2018_Task1_Training_GroundTruth\nGT_DIR = DATA_DIR / 'ISIC2018_Task1_Training_GroundTruth'\n# /data/ISIC2018_Task1-2_Training_Input\nTRAIN_DIR = DATA_DIR / 'ISIC2018_Task1-2_Training_Input'\n# /data/xml\nXML_DIR = DATA_DIR / 'xml'\n# /data/preprocessed",
+        "detail": "src.util.const",
+        "documentation": {}
+    },
+    {
+        "label": "DATA_DIR",
+        "kind": 5,
+        "importPath": "src.util.const",
+        "description": "src.util.const",
+        "peekOfCode": "DATA_DIR = ROOT_DIR / 'data'\n# /data/ISIC2018_Task1_Training_GroundTruth\nGT_DIR = DATA_DIR / 'ISIC2018_Task1_Training_GroundTruth'\n# /data/ISIC2018_Task1-2_Training_Input\nTRAIN_DIR = DATA_DIR / 'ISIC2018_Task1-2_Training_Input'\n# /data/xml\nXML_DIR = DATA_DIR / 'xml'\n# /data/preprocessed\nPREPROCESSED_DIR = DATA_DIR / 'preprocessed'\n# /data/preprocessed/ground_truth",
+        "detail": "src.util.const",
+        "documentation": {}
+    },
+    {
+        "label": "GT_DIR",
+        "kind": 5,
+        "importPath": "src.util.const",
+        "description": "src.util.const",
+        "peekOfCode": "GT_DIR = DATA_DIR / 'ISIC2018_Task1_Training_GroundTruth'\n# /data/ISIC2018_Task1-2_Training_Input\nTRAIN_DIR = DATA_DIR / 'ISIC2018_Task1-2_Training_Input'\n# /data/xml\nXML_DIR = DATA_DIR / 'xml'\n# /data/preprocessed\nPREPROCESSED_DIR = DATA_DIR / 'preprocessed'\n# /data/preprocessed/ground_truth\nPREPROCESSED_GT_DIR = PREPROCESSED_DIR / 'ground_truth'\n# /data/preprocessed/input",
+        "detail": "src.util.const",
+        "documentation": {}
+    },
+    {
+        "label": "TRAIN_DIR",
+        "kind": 5,
+        "importPath": "src.util.const",
+        "description": "src.util.const",
+        "peekOfCode": "TRAIN_DIR = DATA_DIR / 'ISIC2018_Task1-2_Training_Input'\n# /data/xml\nXML_DIR = DATA_DIR / 'xml'\n# /data/preprocessed\nPREPROCESSED_DIR = DATA_DIR / 'preprocessed'\n# /data/preprocessed/ground_truth\nPREPROCESSED_GT_DIR = PREPROCESSED_DIR / 'ground_truth'\n# /data/preprocessed/input\nPREPROCESSED_TRAIN_DIR = PREPROCESSED_DIR / 'input'\nMAX_SIZE = 700",
+        "detail": "src.util.const",
+        "documentation": {}
+    },
+    {
+        "label": "XML_DIR",
+        "kind": 5,
+        "importPath": "src.util.const",
+        "description": "src.util.const",
+        "peekOfCode": "XML_DIR = DATA_DIR / 'xml'\n# /data/preprocessed\nPREPROCESSED_DIR = DATA_DIR / 'preprocessed'\n# /data/preprocessed/ground_truth\nPREPROCESSED_GT_DIR = PREPROCESSED_DIR / 'ground_truth'\n# /data/preprocessed/input\nPREPROCESSED_TRAIN_DIR = PREPROCESSED_DIR / 'input'\nMAX_SIZE = 700\nLABELS = ['lesion']\nVALIDATION_SIZE = 0.2",
+        "detail": "src.util.const",
+        "documentation": {}
+    },
+    {
+        "label": "PREPROCESSED_DIR",
+        "kind": 5,
+        "importPath": "src.util.const",
+        "description": "src.util.const",
+        "peekOfCode": "PREPROCESSED_DIR = DATA_DIR / 'preprocessed'\n# /data/preprocessed/ground_truth\nPREPROCESSED_GT_DIR = PREPROCESSED_DIR / 'ground_truth'\n# /data/preprocessed/input\nPREPROCESSED_TRAIN_DIR = PREPROCESSED_DIR / 'input'\nMAX_SIZE = 700\nLABELS = ['lesion']\nVALIDATION_SIZE = 0.2\nSEED = 19950815",
+        "detail": "src.util.const",
+        "documentation": {}
+    },
+    {
+        "label": "PREPROCESSED_GT_DIR",
+        "kind": 5,
+        "importPath": "src.util.const",
+        "description": "src.util.const",
+        "peekOfCode": "PREPROCESSED_GT_DIR = PREPROCESSED_DIR / 'ground_truth'\n# /data/preprocessed/input\nPREPROCESSED_TRAIN_DIR = PREPROCESSED_DIR / 'input'\nMAX_SIZE = 700\nLABELS = ['lesion']\nVALIDATION_SIZE = 0.2\nSEED = 19950815",
+        "detail": "src.util.const",
+        "documentation": {}
+    },
+    {
+        "label": "PREPROCESSED_TRAIN_DIR",
+        "kind": 5,
+        "importPath": "src.util.const",
+        "description": "src.util.const",
+        "peekOfCode": "PREPROCESSED_TRAIN_DIR = PREPROCESSED_DIR / 'input'\nMAX_SIZE = 700\nLABELS = ['lesion']\nVALIDATION_SIZE = 0.2\nSEED = 19950815",
+        "detail": "src.util.const",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_SIZE",
+        "kind": 5,
+        "importPath": "src.util.const",
+        "description": "src.util.const",
+        "peekOfCode": "MAX_SIZE = 700\nLABELS = ['lesion']\nVALIDATION_SIZE = 0.2\nSEED = 19950815",
+        "detail": "src.util.const",
+        "documentation": {}
+    },
+    {
+        "label": "LABELS",
+        "kind": 5,
+        "importPath": "src.util.const",
+        "description": "src.util.const",
+        "peekOfCode": "LABELS = ['lesion']\nVALIDATION_SIZE = 0.2\nSEED = 19950815",
+        "detail": "src.util.const",
+        "documentation": {}
+    },
+    {
+        "label": "VALIDATION_SIZE",
+        "kind": 5,
+        "importPath": "src.util.const",
+        "description": "src.util.const",
+        "peekOfCode": "VALIDATION_SIZE = 0.2\nSEED = 19950815",
+        "detail": "src.util.const",
+        "documentation": {}
+    },
+    {
+        "label": "SEED",
+        "kind": 5,
+        "importPath": "src.util.const",
+        "description": "src.util.const",
+        "peekOfCode": "SEED = 19950815",
+        "detail": "src.util.const",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset_fpaths",
+        "kind": 2,
+        "importPath": "src.util.cross_validation",
+        "description": "src.util.cross_validation",
+        "peekOfCode": "def load_dataset_fpaths(data_dir, suffix):\n    return [fpath for fpath in sorted(data_dir.iterdir(),\n                                      key=lambda x: x.name) if fpath.suffix == suffix]\ndef load_train_test(train_dir, gt_dir):\n    img_fpaths = load_dataset_fpaths(train_dir, suffix='.jpg')\n    gt_fpaths = load_dataset_fpaths(gt_dir, suffix='.xml')\n    assert len(img_fpaths) == len(gt_fpaths), \\\n        f'# of image: {len(img_fpaths)} != # of ground truth: {len(gt_fpaths)}'\n    return isic_task1_train_test_split(img_fpaths, gt_fpaths)\ndef isic_task1_train_test_split(*arrays):",
+        "detail": "src.util.cross_validation",
+        "documentation": {}
+    },
+    {
+        "label": "load_train_test",
+        "kind": 2,
+        "importPath": "src.util.cross_validation",
+        "description": "src.util.cross_validation",
+        "peekOfCode": "def load_train_test(train_dir, gt_dir):\n    img_fpaths = load_dataset_fpaths(train_dir, suffix='.jpg')\n    gt_fpaths = load_dataset_fpaths(gt_dir, suffix='.xml')\n    assert len(img_fpaths) == len(gt_fpaths), \\\n        f'# of image: {len(img_fpaths)} != # of ground truth: {len(gt_fpaths)}'\n    return isic_task1_train_test_split(img_fpaths, gt_fpaths)\ndef isic_task1_train_test_split(*arrays):\n    return train_test_split(*arrays, random_state=const.SEED,\n                            test_size=const.VALIDATION_SIZE)",
+        "detail": "src.util.cross_validation",
+        "documentation": {}
+    },
+    {
+        "label": "isic_task1_train_test_split",
+        "kind": 2,
+        "importPath": "src.util.cross_validation",
+        "description": "src.util.cross_validation",
+        "peekOfCode": "def isic_task1_train_test_split(*arrays):\n    return train_test_split(*arrays, random_state=const.SEED,\n                            test_size=const.VALIDATION_SIZE)",
+        "detail": "src.util.cross_validation",
+        "documentation": {}
+    },
+    {
+        "label": "MultiboxTrainChain",
+        "kind": 6,
+        "importPath": "src.util.multi_box_train",
+        "description": "src.util.multi_box_train",
+        "peekOfCode": "class MultiboxTrainChain(chainer.Chain):\n    def __init__(self, model, alpha=1, k=3):\n        super(MultiboxTrainChain, self).__init__()\n        with self.init_scope():\n            self.model = model\n        self.alpha = alpha\n        self.k = k\n    def __call__(self, imgs, gt_mb_locs, gt_mb_labels):\n        mb_locs, mb_confs = self.model(imgs)\n        loc_loss, conf_loss = multibox_loss(",
+        "detail": "src.util.multi_box_train",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "kind": 6,
+        "importPath": "src.util.resource",
+        "description": "src.util.resource",
+        "peekOfCode": "class Resource(object):\n    def __init__(self, args, train=False):\n        self.args = args\n        self.train = train\n        self.logger = logger\n        self.common_info()\n    def log_debug(self, msg):\n        return self.logger.debug(msg)\n    def log_info(self, msg):\n        return self.logger.info(msg)",
+        "detail": "src.util.resource",
+        "documentation": {}
+    },
+    {
+        "label": "ISIC2018Task1Dataset",
+        "kind": 6,
+        "importPath": "src.util.skin_lesion_dataset",
+        "description": "src.util.skin_lesion_dataset",
+        "peekOfCode": "class ISIC2018Task1Dataset(chainer.dataset.DatasetMixin):\n    def __init__(self, img_fpaths, gt_fpaths):\n        assert len(img_fpaths) == len(gt_fpaths), \\\n            f'# of image: {len(img_fpaths)} != # of ground truth: {len(gt_fpaths)}'\n        self.annotations = self.load_annotations(img_fpaths, gt_fpaths)\n    def load_annotations(self, img_fpaths, gt_fpaths):\n        annotations = []\n        for img_fpath, gt_fpath in zip(img_fpaths, gt_fpaths):\n            anno_dict = self.parse_annotation(gt_fpath)\n            annotations.append((img_fpath, anno_dict))",
+        "detail": "src.util.skin_lesion_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "Transform",
+        "kind": 6,
+        "importPath": "src.util.transforms",
+        "description": "src.util.transforms",
+        "peekOfCode": "class Transform(object):\n    def __init__(self, coder, size, mean):\n        # to send cpu, make a copy\n        self.coder = copy.copy(coder)\n        self.coder.to_cpu()\n        self.size = size\n        self.mean = mean\n    def __call__(self, in_data):\n        # There are five data augmentation steps\n        # 1. Color augmentation",
+        "detail": "src.util.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "def main():\n    args = parse_args()\n    res = Resource(args, train=True)\n    train, test, train_gt, test_gt = load_train_test(\n        train_dir=const.PREPROCESSED_TRAIN_DIR,\n        gt_dir=const.XML_DIR)\n    res.log_info(f'Train: {len(train)}, test: {len(test)}')\n    model = ARCHS[args.model](n_fg_class=len(const.LABELS),\n                              pretrained_model='imagenet')\n    model.use_preset('evaluate')",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_fpaths",
+        "kind": 2,
+        "importPath": "src.make_dataset",
+        "description": "src.make_dataset",
+        "peekOfCode": "def get_fpaths(data_dir, suffix):\n    \"\"\"\n    Get the all full path of all files with suffix in `data_dir`\n    \"\"\"\n    return [fpath for fpath in sorted(data_dir.iterdir(),\n                                      key=lambda x: x.name) if fpath.suffix == suffix]\ndef make_voc_based_xml(folder_name, file_name, bbox):\n    \"\"\"\n    Make VOC based XML string\n    \"\"\"",
+        "detail": "src.make_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "make_voc_based_xml",
+        "kind": 2,
+        "importPath": "src.make_dataset",
+        "description": "src.make_dataset",
+        "peekOfCode": "def make_voc_based_xml(folder_name, file_name, bbox):\n    \"\"\"\n    Make VOC based XML string\n    \"\"\"\n    left, upper, right, lower = bbox\n    annotation = ET.Element('annotation')\n    annotation = ET.Element('annotation')\n    tree = ET.ElementTree(element=annotation)\n    folder = ET.SubElement(annotation, 'folder')\n    filename = ET.SubElement(annotation, 'filename')",
+        "detail": "src.make_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "save_voc_based_xml",
+        "kind": 2,
+        "importPath": "src.make_dataset",
+        "description": "src.make_dataset",
+        "peekOfCode": "def save_voc_based_xml(xml_file, xml_fpath):\n    \"\"\"\n    Save VOC based XML file\n    \"\"\"\n    xml_file = pretify_xml(xml_file)\n    with xml_fpath.open('w') as wf:\n        wf.write(xml_file)\ndef load_image(img_fpath):\n    \"\"\"\n    Load image from `img_fpath`",
+        "detail": "src.make_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "load_image",
+        "kind": 2,
+        "importPath": "src.make_dataset",
+        "description": "src.make_dataset",
+        "peekOfCode": "def load_image(img_fpath):\n    \"\"\"\n    Load image from `img_fpath`\n    \"\"\"\n    return Image.open(str(img_fpath))\ndef get_bbox_from_gt(gt):\n    \"\"\"\n    Get bounding box from ground truth image\n    \"\"\"\n    return gt.convert('RGB').getbbox()",
+        "detail": "src.make_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "get_bbox_from_gt",
+        "kind": 2,
+        "importPath": "src.make_dataset",
+        "description": "src.make_dataset",
+        "peekOfCode": "def get_bbox_from_gt(gt):\n    \"\"\"\n    Get bounding box from ground truth image\n    \"\"\"\n    return gt.convert('RGB').getbbox()\ndef pretify_xml(elem):\n    \"\"\"\n    Pretify XML string\n    \"\"\"\n    rough_string = ET.tostring(elem, 'utf-8')",
+        "detail": "src.make_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "pretify_xml",
+        "kind": 2,
+        "importPath": "src.make_dataset",
+        "description": "src.make_dataset",
+        "peekOfCode": "def pretify_xml(elem):\n    \"\"\"\n    Pretify XML string\n    \"\"\"\n    rough_string = ET.tostring(elem, 'utf-8')\n    reparsed = minidom.parseString(rough_string)\n    return reparsed.toprettyxml(indent='  ')\ndef preprocess_image_and_gt(img_fpath, gt_fpath):\n    # rescale image\n    img = load_image(img_fpath)",
+        "detail": "src.make_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_image_and_gt",
+        "kind": 2,
+        "importPath": "src.make_dataset",
+        "description": "src.make_dataset",
+        "peekOfCode": "def preprocess_image_and_gt(img_fpath, gt_fpath):\n    # rescale image\n    img = load_image(img_fpath)\n    img.thumbnail((const.MAX_SIZE, const.MAX_SIZE), Image.ANTIALIAS)\n    img.save(str(const.PREPROCESSED_TRAIN_DIR / img_fpath.name))\n    # rescale ground truth\n    gt = load_image(gt_fpath)\n    gt.thumbnail((const.MAX_SIZE, const.MAX_SIZE), Image.ANTIALIAS)\n    gt.save(str(const.PREPROCESSED_GT_DIR / gt_fpath.name))\n    # get bounding box from ground truth",
+        "detail": "src.make_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "wapper_preprocess_image_and_gt",
+        "kind": 2,
+        "importPath": "src.make_dataset",
+        "description": "src.make_dataset",
+        "peekOfCode": "def wapper_preprocess_image_and_gt(args):\n    img_fpath, gt_fpath = args\n    preprocess_image_and_gt(img_fpath, gt_fpath)\ndef main():\n    parser = argparse.ArgumentParser(description='make dataset for training')\n    parser.add_argument('--loaderjob', type=int, default=2)\n    args = parser.parse_args()\n    img_fpaths = get_fpaths(const.TRAIN_DIR, suffix='.jpg')\n    gt_fpaths = get_fpaths(const.GT_DIR, suffix='.png')\n    with Pool(processes=args.loaderjob) as pool:",
+        "detail": "src.make_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.make_dataset",
+        "description": "src.make_dataset",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description='make dataset for training')\n    parser.add_argument('--loaderjob', type=int, default=2)\n    args = parser.parse_args()\n    img_fpaths = get_fpaths(const.TRAIN_DIR, suffix='.jpg')\n    gt_fpaths = get_fpaths(const.GT_DIR, suffix='.png')\n    with Pool(processes=args.loaderjob) as pool:\n        with tqdm(total=len(img_fpaths)) as pbar:\n            for _ in tqdm(pool.imap(wapper_preprocess_image_and_gt,\n                                    zip(img_fpaths, gt_fpaths))):",
+        "detail": "src.make_dataset",
+        "documentation": {}
+    }
+]
